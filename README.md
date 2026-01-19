@@ -10,3 +10,4 @@ npm run dev
 ```
 
 Open the dev server URL shown in the terminal (default http://localhost:5173).
+Deployed Application URL : https://artworkdatadev.netlify.app/
